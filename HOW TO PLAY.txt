@@ -1,0 +1,11 @@
+You can play if you have Python 3.9+ installed on you system.
+
+To Play run the following steps First:
+
+1. Open cmd in current folder and type " pip install -r requirements.txt "
+
+The above is only a one time command.
+
+How to run:
+
+1. Open cmd in current folder and type " python ai_game.py "
