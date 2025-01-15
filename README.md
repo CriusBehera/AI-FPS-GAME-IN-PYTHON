@@ -28,7 +28,7 @@ Clone Repositry Method :
 ```bash
 #Clone the repository
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/CriusBehera/AI-FPS-GAME-IN-PYTHON.git
 
 # Navigate to the project directory
 cd your-repository
