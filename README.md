@@ -13,6 +13,8 @@ A brief description of what the project is about.
 ## Installation
 Step-by-step instructions on how to get the development environment running.
 
+For downloading click on the green code button and then click on download zip and extract the zip and files are ready.
+
 You need Python 3.9 + for running the project
 
 Download Reposity Method :
