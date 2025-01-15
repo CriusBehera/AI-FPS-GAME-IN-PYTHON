@@ -21,7 +21,7 @@ Download Reposity Method :
 
 cd downloaded_folder
 
-pip install ...
+pip install -r requirements.txt
 ```
 
 Clone Repositry Method :
@@ -34,9 +34,7 @@ git clone https://github.com/your-username/your-repository.git
 cd your-repository
 
 # Install dependencies
-pip install requirementsheheh
-
-python ...
+pip install -r requirements.txt
 
 ```
 ## Usage
