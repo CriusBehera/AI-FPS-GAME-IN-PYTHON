@@ -18,11 +18,12 @@ For downloading click on the green code button and then click on download zip an
 You need Python 3.9 + for running the project
 
 Download Reposity Method :
+
+After downloading the zip, extract the zip file and go into the folder.
+
+open terminal in that folder and paste the following commands.
+
 ```bash
-# Extract the files.
-
-cd downloaded_folder
-
 pip install -r requirements.txt
 ```
 
@@ -56,7 +57,7 @@ Ayan,Crius From Intel AISC Leader.
 
 ## License
 
-This is licensed under Ayan And Crius.
+This is licensed under CriusBehera
 
 ## Contact
 
