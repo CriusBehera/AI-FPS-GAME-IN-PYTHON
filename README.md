@@ -1,7 +1,7 @@
 # AI FPS GAME IN PYTHON
 
 ## Description
-A brief description of what the project is about.
+Ai game.
 
 ## Table of Contents
 1. [Installation](#installation)
