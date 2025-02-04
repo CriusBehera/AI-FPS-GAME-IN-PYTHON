@@ -1,7 +1,7 @@
 # AI FPS GAME IN PYTHON
 
 ## Description
-Ai game.
+Ai FPS game.
 
 ## Table of Contents
 1. [Installation](#installation)
