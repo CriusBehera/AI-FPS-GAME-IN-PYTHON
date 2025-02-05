@@ -53,7 +53,7 @@ python ai_game.py
 
 ## Contributing
 
-Ayan,Crius From Intel AISC Leader.
+Kriday,Crius From Intel AISC Leader.
 
 ## License
 
